@@ -2,7 +2,7 @@
 /*
 Plugin Name: Enqueue LiveReload.js
 Plugin URI: https://github.com/HeikoMamerow/enqueue-livereload-js
-Description: This plugin is usefull for your local development environment, if you work with a task manager like <a href="http://gruntjs.com/" target="_blank">Grunt</a> and want to <a href="https://github.com/gruntjs/grunt-contrib-watch/blob/master/docs/watch-examples.md#enabling-live-reload-in-your-html" target="_blank">enabling LiveReload in your HTML</a>.
+Description: This plugin is usefull for your local development environment, if you work with a task manager like <a href="http://gruntjs.com/">Grunt</a> and want to <a href="https://github.com/gruntjs/grunt-contrib-watch/blob/master/docs/watch-examples.md#enabling-live-reload-in-your-html">enabling LiveReload in your HTML</a>.
 Version: 0.1
 Author: Heiko Mamerow
 Author URI: http://heikomamerow.de
