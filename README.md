@@ -8,6 +8,5 @@ Howto:
 1. Downlad plugin
 2. Move it to your plugin folder
 2. Edit enqueue-livereload-js.php:
-	1. Rename server name(s)
-	2. Adjust Path to your livereload.js
+	* Adjust Path to your livereload.js
 3. Activate plugin
