@@ -12,7 +12,7 @@ License: GPL2
 
 function enqueue_livereload(){
 	// Adjust the path to your livereload.js.
-	// Of course you have to donload it first from here: https://github.com/livereload/livereload-js/blob/master/dist/livereload.js
+	// Of course you have to download the script first from here: https://github.com/livereload/livereload-js/blob/master/dist/livereload.js
 	wp_enqueue_script( 'livereload', 'http://' . $_SERVER['SERVER_NAME'] . '/livereload.js', null );
 }
 add_action( 'wp_enqueue_scripts', 'enqueue_livereload' );
