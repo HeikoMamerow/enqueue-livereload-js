@@ -7,8 +7,4 @@ Howto:
 ------
 1. Downlad plugin
 2. Move it to your plugin folder
-2. Edit enqueue-livereload-js.php:
-	* Adjust Path to your livereload.js*
 3. Activate plugin
-
-*Of course you need a local copy of livereload.js from here: https://github.com/livereload/livereload-js/blob/master/dist/livereload.js
