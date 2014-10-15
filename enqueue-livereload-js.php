@@ -11,6 +11,9 @@ License: GPL2
 
 
 function enqueue_livereload(){
-	wp_enqueue_script( 'livereload', plugin_dir_url(__FILE__) . 'livereload.js', null );
+	//	livereload.js must be in the root!
+	wp_enqueue_script( 'livereload', 'http://' . $_SERVER['SERVER_NAME'] . '/livereload.js', null );
 }
 add_action( 'wp_enqueue_scripts', 'enqueue_livereload' );
+
+

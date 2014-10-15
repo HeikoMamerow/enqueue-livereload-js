@@ -5,6 +5,8 @@ WordPress plugin to enqueue [LiveReload.js](https://github.com/livereload/livere
 
 Howto:
 ------
-1. Downlad plugin
-2. Move it to your plugin folder
-3. Activate plugin
+1. Download livereload.js from here: https://raw.githubusercontent.com/livereload/livereload-js/master/dist/livereload.js
+2. Put livereload.js in the web root. No rename - no subdirectory!
+3. Downlad plugin
+4. Move it to your plugin folder
+5. Activate plugin
